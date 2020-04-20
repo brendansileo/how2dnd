@@ -1,0 +1,36 @@
+.navItem {
+	font-size: 30;
+	margin-top: 15px;
+	margin-left: 10px;
+	margin-right: 50px;
+	float: left;
+}
+
+.navItem:hover {
+	background-color: white;
+	color: black;
+}
+
+.navItem a {
+	color: white;
+	text-decoration: none;
+}
+
+.navItem a:hover {
+	color: black;
+	text-decoration: none;
+}
+
+.grid-item {
+	border: 1px solid black;
+	height: 100px;
+	line-height: 100px;
+	width: 300px;
+	float: left;
+}
+
+.choiceLabel {
+	text-align: center;
+	font-size: 20;
+	font-weight: bold;
+}
